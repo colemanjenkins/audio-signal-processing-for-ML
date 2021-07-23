@@ -1,0 +1,2 @@
+# Audio Signal Processing for Machine Learning Codebase
+I'm going through the tutorials and lessons from [The Sound of AI](https://www.youtube.com/c/ValerioVelardoTheSoundofAI) on [Audio Signal Processing for Machine Learning](https://www.youtube.com/playlist?list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0).
